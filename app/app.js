@@ -1,1 +1,3 @@
-angular.module('app', ['ngRoute'])
+;(function(angular) {
+	angular.module('app', ['ngRoute'])
+})(window.angular)
